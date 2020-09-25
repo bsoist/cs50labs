@@ -39,4 +39,30 @@ Be sure to test your program with numbers in this range, numbers outside of this
 
 You may have to use a logical operator, such as `&&` (AND) or `||` (OR) to combine two conditions for this.
 
-[For more info on loops, download the CS50 Loops Sheet](https://ap.cs50.school/assets/pdfs/unit1/loops.pdf)
+### Correctness
+
+Check your work with...
+
+```
+check50 bsoist/cs_problems/2020/labs/dowhileloop
+```
+
+### Style
+
+Since we want to get into good habits early, check that your indentation, and spacing is correct, by typing:
+
+```
+style50 dowhile.c
+```
+
+It's good to get into good habits now, so when you start writing longer and more complex programs, you will know how to style your code properly. Code that is properly styled, is much easier to debug!
+
+### How to Submit
+
+```
+submit50 bsoist/cs_problems/2020/labs/dowhileloop
+```
+
+### More info
+[For more info on loops, download the CS50 Variables Reference Sheet](https://www.bsoi.st/csp/curriculum/x/references/loops.pdf)
+

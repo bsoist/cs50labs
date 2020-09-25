@@ -167,34 +167,27 @@ Finally **execute** your program with:
 
 {% next %}
 
-## Testing
-
 ### Correctness
 
-Before turning in your solution, be sure to test the correctness of your program with check50, by executing the below:
+Check your work with...
 
 ```
-check50 <slug goes here>
+check50 bsoist/cs_problems/2020/labs/datatypes
 ```
 
 ### Style
 
-If you pass all the check50 test cases, and get all green smiley faces, try checking style50, as with:
+Since we want to get into good habits early, check that your indentation, and spacing is correct, by typing:
 
 ```
 style50 datatypes.c
 ```
 
-When your program compiles and passes the style test, you have completed Data Types!
-
-## Submit
-
-To submit your code, execute
+### How to Submit
 
 ```
-submit50 <slug>
+submit50 bsoist/cs_problems/2020/labs/datatypes
 ```
 
-Your submission should be graded for corretness and style withing a few minutes on [cs50.me](https://cs50.me/) -->
-
-[For more info on data types, download the CS50 Data Types Reference Sheet](https://ap.cs50.school/assets/pdfs/unit1/data_types.pdf)
+### More info
+[For more info on data types, download the CS50 Variables Reference Sheet](https://www.bsoi.st/csp/curriculum/x/references/data_types.pdf)

@@ -172,4 +172,29 @@ Complete the code on the right by adding one or more conditional statements to p
 
 Then test your code by entering inputs that are ints, floats, strings, and ints but that are outside the expected range (like 1000)!
 
-[For more info, download the CS50 Boolean Expressions Reference Sheet](https://ap.cs50.school/assets/pdfs/unit1/boolean_expressions.pdf)
+### Correctness
+
+Check your work with...
+
+```
+check50 bsoist/cs_problems/2020/labs/booleans
+```
+
+### Style
+
+Since we want to get into good habits early, check that your indentation, and spacing is correct, by typing:
+
+```
+style50 booleans.c
+```
+
+It's good to get into good habits now, so when you start writing longer and more complex programs, you will know how to style your code properly. Code that is properly styled, is much easier to debug!
+
+### How to Submit
+
+```
+submit50 bsoist/cs_problems/2020/labs/booleans
+```
+
+### More info
+[For more info on Booleans and conditions, download the CS50 Variables Reference Sheet](https://www.bsoi.st/csp/curriculum/x/references/boolean_expressions.pdf)

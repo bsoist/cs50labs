@@ -134,4 +134,29 @@ Note: Boolean operators will be discussed in the Boolean Expressions Lab.
 {% endspoiler %}
 -->
 
-[Download the CS50 Operators Reference Sheet on Operators](https://ap.cs50.school/assets/pdfs/unit1/operators.pdf)
+### Correctness
+
+Check your work with...
+
+```
+check50 bsoist/cs_problems/2020/labs/operators
+```
+
+### Style
+
+Since we want to get into good habits early, check that your indentation, and spacing is correct, by typing:
+
+```
+style50 operators.c
+```
+
+It's good to get into good habits now, so when you start writing longer and more complex programs, you will know how to style your code properly. Code that is properly styled, is much easier to debug!
+
+### How to Submit
+
+```
+submit50 bsoist/cs_problems/2020/labs/operators
+```
+
+### More info
+[For more info on operators, download the CS50 Variables Reference Sheet](https://www.bsoi.st/csp/curriculum/x/references/operators.pdf)

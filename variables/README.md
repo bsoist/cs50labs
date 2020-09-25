@@ -180,6 +180,15 @@ You might see your program do the calculation correctly, but how can one be `-15
 
 Eventually we will see how to validate user inputs, but for now, our goal is to practice using variables, and to write code that is syntactically correct, which will compile and execute.
 
+
+### Correctness
+
+Check your work with...
+
+```
+check50 bsoist/cs_problems/2020/labs/variables
+```
+
 ### Style
 
 Since we want to get into good habits early, check that your indentation, and spacing is correct, by typing:
@@ -188,5 +197,12 @@ Since we want to get into good habits early, check that your indentation, and sp
 style50 variables.c
 ```
 
-[For more info on variables, download the CS50 Variables Reference Sheet](https://ap.cs50.school/assets/pdfs/unit1/variables.pdf)
+### How to Submit
+
+```
+submit50 bsoist/cs_problems/2020/labs/variables
+```
+
+### More info
+[For more info on variables, download the CS50 Variables Reference Sheet](https://www.bsoi.st/csp/curriculum/x/references/variables.pdf)
 
