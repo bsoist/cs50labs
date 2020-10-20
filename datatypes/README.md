@@ -6,13 +6,15 @@ In this lab you will learn about:
 - Problems that can arise with `ints` and `floats`
 - Data input functions for different data types
 
+{% next "Let's get started" %}
+
 ## Booleans & Conditionals
 
 Please watch this short video.
 
 {% video https://www.youtube.com/watch?v=q6K8KMqt8wQ %} 
 
-{% Now, Let's Review %}
+{% next "Now, let's review" %}
 
 ## Data Types
 
