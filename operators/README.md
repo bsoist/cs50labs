@@ -6,13 +6,15 @@ In this lab you will learn:
 - How and when to use the remainder operator
 - The different ways of using assignment operators
 
+{% next "Let's get started" %}
+
 ## Operators
 
 Please watch this short video.
 
 {% video https://www.youtube.com/watch?v=7apBtlEkJzk %}
 
-{% Now, Let's Review %}
+{% next "Now, Let's Review" %}
 
 ## What are Boolean Expressions?
 

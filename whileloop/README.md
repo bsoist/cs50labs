@@ -5,7 +5,7 @@ In this lab you will learn:
 - What is a while loop
 - How and when to use while loops
 
-{% Let's Get Started %}
+{% next "Let's Get Started" %}
 
 ## Loops
 
@@ -13,7 +13,7 @@ Please watch this video up until Doug introduces the `for` loop. You can stop th
 
 {% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
 
-{% Now, Let's Review %}
+{% next "Now, Let's Review" %}
 
 ## What is a While Loop?
 

@@ -5,7 +5,7 @@ In this lab you will learn:
 - Why we have a for loop
 - How to use a for loop
 
-{% Let's Get Started %}
+{% next "Let's Get Started" %}
 
 ## Loops
 
@@ -16,7 +16,7 @@ If you can't spare the time, you should watch this from the just before Doug int
 Of course, if you haven't seen it yet, watch the whole thing in regular speed.
 {% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
 
-{% Now, Let's Review %}
+{% next "Now, Let's Review" %}
 
 ## What is a For Loop?
 

@@ -5,7 +5,7 @@ In this lab you will learn:
 - What is the difference between a while and do-while loop
 - How and when to use do-while loops
 
-{% Let's Get Started %}
+{% next "Let's Get Started" %}
 
 ## Loops
 
@@ -13,7 +13,7 @@ If you're doing this lab during the same sitting as the `while` loops lab, you p
 
 {% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
 
-{% Now, Let's Review %}
+{% next "Now, Let's Review" %}
 
 ## What is a Do-While Loop?
 

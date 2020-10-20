@@ -6,7 +6,7 @@ In this lab you will learn:
 - Why and how to combine Boolean operators
 - Why conditional statements are so important
 
-{% Let's Get Started %}
+{% next "Let's Get Started" %}
 
 ## Booleans & Conditionals
 
@@ -14,7 +14,7 @@ Please watch this short video.
 
 {% video https://www.youtube.com/watch?v=FqUeHzvci10 %}
 
-{% Now, Let's Review %}
+{% next "Now, Let's Review" %}
 
 ## What are Boolean Expressions?
 
