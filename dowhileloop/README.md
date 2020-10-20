@@ -5,6 +5,16 @@ In this lab you will learn:
 - What is the difference between a while and do-while loop
 - How and when to use do-while loops
 
+{% Let's Get Started %}
+
+## Loops
+
+If you're doing this lab during the same sitting as the `while` loops lab, you probably don't need to re-watch the video. If you've been away for a bit, and you can spare the time, re-watch this video up until Doug introduces the `for` loop.
+
+{% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
+
+{% Now, Let's Review %}
+
 ## What is a Do-While Loop?
 
 The **do-while loop** is similar to a while loop in the sense that it repeatedly executes a block of code as long as the condition we give it is true. The do-while loop though, will always execute at least once, and then check the condition to determine if it should execute again and again.

@@ -6,6 +6,16 @@ In this lab you will learn about:
 - Problems that can arise with `ints` and `floats`
 - Data input functions for different data types
 
+## Booleans & Conditionals
+
+Please watch this short video.
+
+{% video https://www.youtube.com/watch?v=q6K8KMqt8wQ %} 
+
+{% Now, Let's Review %}
+
+## Data Types
+
 ## What is a Data Type?
 
 A **data type**, in programming, is a classification that specifies which type of value a variable can hold. A `string` can hold only textual data, while an `int` can only hold a whole number.

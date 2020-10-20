@@ -5,6 +5,19 @@ In this lab you will learn:
 - Why we have a for loop
 - How to use a for loop
 
+{% Let's Get Started %}
+
+## Loops
+
+If you have the time, watching this entire video would be great - even if you watch the part you've already seen at a faster speed. 
+
+If you can't spare the time, you should watch this from the just before Doug introduces the `for` loop until the end. 
+
+Of course, if you haven't seen it yet, watch the whole thing in regular speed.
+{% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
+
+{% Now, Let's Review %}
+
 ## What is a For Loop?
 
 The **for loop** is probably the most frequently used loop of the three types of loops. It is very useful when we want to repeat something a known number of times.

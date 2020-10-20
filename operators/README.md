@@ -6,6 +6,16 @@ In this lab you will learn:
 - How and when to use the remainder operator
 - The different ways of using assignment operators
 
+## Operators
+
+Please watch this short video.
+
+{% video https://www.youtube.com/watch?v=7apBtlEkJzk %}
+
+{% Now, Let's Review %}
+
+## What are Boolean Expressions?
+
 ## Arithmetic Operators
 
 The addition (`+`), subtraction (`-`), and multiplication (`*`) **operators** work the same way in C as they do in your math class. No big surprises here.

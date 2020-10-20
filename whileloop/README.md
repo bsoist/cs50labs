@@ -5,6 +5,16 @@ In this lab you will learn:
 - What is a while loop
 - How and when to use while loops
 
+{% Let's Get Started %}
+
+## Loops
+
+Please watch this video up until Doug introduces the `for` loop. You can stop there.
+
+{% video https://www.youtube.com/watch?v=QOvo-xFL9II %}
+
+{% Now, Let's Review %}
+
 ## What is a While Loop?
 
 As we'll soon see, there are three types of loops we can use in C. While each type of loop can be made to do just about anything, each type of loop serves a particular purpose.
